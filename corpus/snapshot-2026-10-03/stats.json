@@ -1,0 +1,61 @@
+{
+ "snapshot": "snapshot-2026-10-03",
+ "services": {
+  "s3": {
+   "pages": 802,
+   "chars": 6494986,
+   "est_tokens": 1623746
+  },
+  "cloudfront": {
+   "pages": 276,
+   "chars": 2250922,
+   "est_tokens": 562730
+  },
+  "lambda": {
+   "pages": 392,
+   "chars": 3908585,
+   "est_tokens": 977146
+  },
+  "sqs": {
+   "pages": 143,
+   "chars": 535521,
+   "est_tokens": 133880
+  },
+  "sns": {
+   "pages": 240,
+   "chars": 1261218,
+   "est_tokens": 315304
+  },
+  "iam": {
+   "pages": 425,
+   "chars": 4750689,
+   "est_tokens": 1187672
+  },
+  "dynamodb": {
+   "pages": 585,
+   "chars": 4320398,
+   "est_tokens": 1080099
+  }
+ },
+ "total_pages": 2863,
+ "total_chars": 23522319,
+ "est_tokens": 5880577,
+ "excluded_sections": [
+  "amazon sns documentation history",
+  "api reference",
+  "code examples",
+  "code examples using sdk",
+  "document history",
+  "documentation history",
+  "java sdk examples",
+  "making http query requests",
+  "using apis"
+ ],
+ "failures": [],
+ "missing_404": [
+  "sns/channels-sms-originating-identities-long-codes.html"
+ ],
+ "empty_pages": [
+  "sns/sns-tutorial-publish-message-with-attributes.html"
+ ]
+}
